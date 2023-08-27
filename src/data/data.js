@@ -153,7 +153,7 @@ export const pricing = {
           Icon: HiOutlineX,
         },
       ],
-      price: '$150',
+      price: 'Rp.1,500,000',
       delay: 300,
     },
     {
@@ -176,7 +176,7 @@ export const pricing = {
           Icon: HiOutlineX,
         },
       ],
-      price: '$250',
+      price: 'Rp.2,500,000',
       delay: 600,
     },
     {
@@ -199,7 +199,7 @@ export const pricing = {
         { name: 'Database Statictics', textDecoration: null, Icon: HiCheck },
         { name: 'Export data', textDecoration: null, Icon: HiCheck },
       ],
-      price: '$270',
+      price: 'Rp.3,000,000',
       delay: 900,
     },
   ],
