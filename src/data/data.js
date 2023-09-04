@@ -310,6 +310,6 @@ export const copyright = {
       icon: LinkedinIcon,
       href: 'https://www.linkedin.com/in/hilmanhidayat-kodeman274/',
     },
-    { icon: TwitterIcon, href: 'https://twitter.com/HilmanH7855884' },
+    { icon: TwitterIcon, href: 'https://twitter.com/Fufa_Creative' },
   ],
 };
