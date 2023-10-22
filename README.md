@@ -5,13 +5,13 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
+- [Introduction](#Introduction)
+- [Features](#Features)
+- [Usage](#Usage)
 
 
 
-# introduction 
+# Introduction 
 
 Selamat datang di repositori Fufa Creative! Kami adalah tim freelance yang ahli dalam pembuatan situs web dan aplikasi, dengan fokus pada desain UI/UX yang menarik dan pengalaman pengguna yang luar biasa. Di sini, Anda akan menemukan informasi tentang layanan yang kami tawarkan, paket yang dapat Anda pilih, dan cara menggunakan layanan kami.
 
@@ -19,7 +19,7 @@ Selamat datang di repositori Fufa Creative! Kami adalah tim freelance yang ahli 
 
 Fufa Creative adalah tim kreatif yang terdiri dari desainer, pengembang frontend, dan backend yang siap membantu Anda menghadirkan proyek web atau aplikasi impian Anda menjadi kenyataan. Kami berkomitmen untuk memberikan hasil berkualitas tinggi dengan fokus pada tampilan dan pengalaman pengguna yang luar biasa.
 
-## features
+## Features
 
 - **Desain UI/UX Kustom**: Kami menciptakan desain UI/UX yang unik dan sesuai dengan kebutuhan proyek Anda.
 
@@ -29,7 +29,7 @@ Fufa Creative adalah tim kreatif yang terdiri dari desainer, pengembang frontend
 
 - **Paket yang Dapat Disesuaikan**: Kami menawarkan berbagai paket yang dapat disesuaikan sesuai dengan skala dan kebutuhan proyek Anda.
 
-## usage
+## Usage
 
 1. **Eksplorasi**: Jelajahi situs web kami untuk memahami lebih lanjut tentang layanan dan paket yang kami tawarkan.
 
