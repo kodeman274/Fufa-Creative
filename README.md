@@ -31,7 +31,7 @@ Fufa Creative adalah tim kreatif yang terdiri dari desainer, pengembang frontend
 
 ## Usage
 
-1. **Eksplorasi**: Jelajahi situs web kami untuk memahami lebih lanjut tentang layanan dan paket yang kami tawarkan.
+1. **Eksplorasi**: Jelajahi situs web kami untuk memahami lebih lanjut tentang layanan dan paket yang kami tawarkan dan berdiskusilah dengan kami untuk info lebih lanjut .
 
 2. **Kontak**: Jika Anda tertarik menggunakan layanan kami, hubungi kami melalui nomor telepon [+62-857-180-10129].
 
