@@ -10,7 +10,6 @@
 - [Usage](#Usage)
 
 
-
 # Introduction 
 
 Selamat datang di repositori Fufa Creative! Kami adalah tim freelance yang ahli dalam pembuatan situs web dan aplikasi, dengan fokus pada desain UI/UX yang menarik dan pengalaman pengguna yang luar biasa. Di sini, Anda akan menemukan informasi tentang layanan yang kami tawarkan, paket yang dapat Anda pilih, dan cara menggunakan layanan kami.
@@ -27,7 +26,7 @@ Fufa Creative adalah tim kreatif yang terdiri dari desainer, pengembang frontend
 
 - **Pengembangan Backend**: Kami memiliki pengembang backend yang berpengalaman untuk menangani logika dan data di balik aplikasi Anda.
 
-- **Paket yang Dapat Disesuaikan**: Kami menawarkan berbagai paket yang dapat disesuaikan sesuai dengan skala dan kebutuhan proyek Anda.
+- **Paket yang Dapat Disesuaikan**: Kami menawarkan berbagai paket yang dapat disesuaikan sesuai dengan skala dan kebutuhan proyek Anda jangan ragu untuk bernegosiasi dengan kami.
 
 ## Usage
 
