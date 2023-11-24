@@ -7,7 +7,7 @@
 
 - [Introduction](#Introduction)
 - [Features](#Features)
-- [Usage](#Usage)
+- [Service](#Service)
 
 
 # Introduction 
@@ -28,7 +28,7 @@ Fufa Creative adalah tim kreatif yang terdiri dari desainer, pengembang frontend
 
 - **Paket yang Dapat Disesuaikan**: Kami menawarkan berbagai paket yang dapat disesuaikan sesuai dengan skala dan kebutuhan proyek Anda jangan ragu untuk bernegosiasi dengan kami.
 
-## Usage
+## Service
 
 1. **Eksplorasi**: Jelajahi situs web kami untuk memahami lebih lanjut tentang layanan dan paket yang kami tawarkan dan berdiskusilah dengan kami untuk info lebih lanjut .
 
